@@ -5,9 +5,9 @@
 - The goal is to understand the key factors influencing employee turnover and provide insights to reduce attrition
 
 ## Dataset used
-### source:  ** <a href = "https://www.kaggle.com/datasets/itssuru/hr-employee-attrition">Dataset</a>
-### Number of Records : ** 1,470 employees 
-### Key Columns : ** Employee ID, Department, Attrition, Job Satisfaction, Monthly Income 
+### source:** <a href = "https://www.kaggle.com/datasets/itssuru/hr-employee-attrition">Dataset</a>
+### Number of Records :** 1,470 employees 
+### Key Columns :** Employee ID, Department, Attrition, Job Satisfaction, Monthly Income 
 
 ## Questions:
 -  What is the overall attrition rate.
