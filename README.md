@@ -1,13 +1,29 @@
 # HR Employee Attrition Analysis
+
+## Project Overview  
+
+This project analyzes employee attrition trends using Excel, SQL, and Power BI. The dataset was first cleaned and structured in *Excel*, ensuring proper formatting and organization. *SQL* was then used to analyze attrition patterns, such as identifying which departments had the highest turnover. Finally, *Power BI* was used to create interactive dashboards that visualize key insights, helping to understand the factors driving employee attrition.  
+
+
 ## Objective:
 
-- This project analyzes employee attrition trend using SQL and Power BI
-- The goal is to understand the key factors influencing employee turnover and provide insights to reduce attrition
+- Identify the main causes of employee attrition.  
+- Analyze trends across departments, salary levels, and job satisfaction.  
+- Provide insights for reducing turnover.  
 
-## Dataset used
-### source: <a href = "https://www.kaggle.com/datasets/itssuru/hr-employee-attrition">Dataset</a>
+
+## Dataset used & Tools
+### Dataset source: <a href = "https://www.kaggle.com/datasets/itssuru/hr-employee-attrition">Dataset</a>
 ### Number of Records : 1,470 employees 
 ### Key Columns : Employee ID, Department, Attrition, Job Satisfaction, Monthly Income 
+### Tools Used: 
+#### Excel – For data cleaning and organizing the data into structred tables
+#### SQL – For analyzing attrition trends  
+#### Power BI – For creating interactive dashboard and visualizing insights
+  
+
+
+
 
 ## Questions:
 -  What is the overall attrition rate.
@@ -20,7 +36,8 @@
 -  Does job satisfaction impact attrition
 -  What other factor impact attrition
 -  Are employees with lower work-life balance scores more likely to leave
-
+  ## Dashboard Interaction
+  
   ## Insights & Findings
 
    - The company has a *16% attrition rate* (237 employees left out of 1,470).  
@@ -32,7 +49,7 @@
    - Employees with *low job satisfaction are more likely to leave*.  
    - The *majority of employees who left had job satisfaction levels of 1 or 2*. 
    - Employees earning *less than 5K are more likely to leave*.  
-   - Higher salaries *(above 10K)* have a lower attrition rate, suggesting compensation is a key factor.    - Employees with *longer promotion cycles (waiting too long for a promotion) have higher attrition rates*.  
+   - Higher salaries *(above 10K)* have a lower attrition rate, suggesting compensation is a key factor.    - Employees with *longer promotion cycles (waiting too long for a promotion) have higher attrition rates.  
    - Those who are promoted frequently are more likely to stay.  
 
 
