@@ -36,7 +36,7 @@ This project analyzes employee attrition trends using Excel, SQL, and Power BI. 
 -  Does job satisfaction impact attrition
 -  What other factor impact attrition
 -  Are employees with lower work-life balance scores more likely to leave
-  ## Dashboard Interaction  <a href ="https://github.com/Crystabel-Isioma/HR-EMPLOYEE-ATTRITION-ANALYSIS/blob/main/hr%20employee%20attrition%20analysis.pbix">View Dashboard</a>
+-  
   
   ## Insights & Findings
 
@@ -52,4 +52,11 @@ This project analyzes employee attrition trends using Excel, SQL, and Power BI. 
    - Higher salaries *(above 10K)* have a lower attrition rate, suggesting compensation is a key factor.    - Employees with *longer promotion cycles (waiting too long for a promotion) have higher attrition rates.  
    - Those who are promoted frequently are more likely to stay.  
 
+## Dashboard
 
+![https://github.com/Crystabel-Isioma/HR-EMPLOYEE-ATTRITION-ANALYSIS/blob/main/Screenshot%202025-03-06%20134801.png]
+
+ ## Conclusion & Recommendations 
+- Improve employee engagement and career growth programs.  
+- Enhance work-life balance policies to reduce stress-related attrition (eg flexible schedules,remote options).  
+- Adjust salary structures in high-attrition roles (eg competitive pay bonuses).  
