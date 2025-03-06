@@ -36,7 +36,7 @@ This project analyzes employee attrition trends using Excel, SQL, and Power BI. 
 -  Does job satisfaction impact attrition
 -  What other factor impact attrition
 -  Are employees with lower work-life balance scores more likely to leave
-  ## Dashboard Interaction  <a  >View Dashboard</a>
+  ## Dashboard Interaction  <a href ="https://github.com/Crystabel-Isioma/HR-EMPLOYEE-ATTRITION-ANALYSIS/blob/main/hr%20employee%20attrition%20analysis.pbix">View Dashboard</a>
   
   ## Insights & Findings
 
