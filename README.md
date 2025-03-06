@@ -49,12 +49,13 @@ This project analyzes employee attrition trends using Excel, SQL, and Power BI. 
    - Employees with *low job satisfaction are more likely to leave*.  
    - The *majority of employees who left had job satisfaction levels of 1 or 2*. 
    - Employees earning *less than 5K are more likely to leave*.  
-   - Higher salaries *(above 10K)* have a lower attrition rate, suggesting compensation is a key factor.    - Employees with *longer promotion cycles (waiting too long for a promotion) have higher attrition rates.  
+   - Higher salaries *(above 10K)* have a lower attrition rate, suggesting compensation is a key factor.
+   - Employees with longer promotion cycles (waiting too long for a promotion) have higher attrition rates.  
    - Those who are promoted frequently are more likely to stay.  
 
 ## Dashboard
+ ![Screenshot 2025-03-06 134801](https://github.com/user-attachments/assets/b5835a4a-56c2-4c16-81e9-70a3dd061b78)
 
-![https://github.com/Crystabel-Isioma/HR-EMPLOYEE-ATTRITION-ANALYSIS/blob/main/Screenshot%202025-03-06%20134801.png]
 
  ## Conclusion & Recommendations 
 - Improve employee engagement and career growth programs.  
