@@ -38,7 +38,7 @@ This project analyzes employee attrition trends using Excel, SQL, and Power BI. 
 -  Are employees with lower work-life balance scores more likely to leave
 -  
   
-  ## Insights & Findings
+  ##  Insights & Findings
 
    - The company has a *16% attrition rate* (237 employees left out of 1,470).  
    - The *average tenure is 7.01 years*, meaning employees typically stay for this duration before leaving.  
@@ -57,7 +57,7 @@ This project analyzes employee attrition trends using Excel, SQL, and Power BI. 
  ![Screenshot 2025-03-06 134801](https://github.com/user-attachments/assets/b5835a4a-56c2-4c16-81e9-70a3dd061b78)
 
 
- ## Conclusion & Recommendations 
+ ##  Conclusion & Recommendations 
 - Improve employee engagement and career growth programs.  
 - Enhance work-life balance policies to reduce stress-related attrition (eg flexible schedules,remote options).  
 - Adjust salary structures in high-attrition roles (eg competitive pay bonuses).  
